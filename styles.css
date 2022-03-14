@@ -1,0 +1,63 @@
+body {
+  background-color: #edf2dc;
+  font-family: "Fredoka", sans-serif;
+  font-size: 20px;
+  padding-top: 35px;
+  margin: 0 30px;
+  text-indent: 20px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+.nav-link {
+  font-size: 20px;
+}
+
+.fab {
+  font-size: 20px;
+  color: green;
+}
+
+.btn:hover,
+.fab:hover {
+  color: black;
+}
+
+.made-by {
+  background-color: green;
+  color: white;
+  padding: 7px;
+  font-size: 15px;
+  /* position: sticky; */
+  bottom: 0;
+  text-align: center;
+}
+
+.creator-name {
+  color: white;
+  text-decoration: none;
+}
+
+.creator-name:hover {
+  color: black;
+}
+
+.tashkent {
+  color: black;
+}
+
+.chapter {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 20px;
+}
+.list-group-item {
+  background-color: #edf2dc;
+}
+
+.phone{
+  margin-top: 12px;
+}
